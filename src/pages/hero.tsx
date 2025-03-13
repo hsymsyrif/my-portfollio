@@ -106,7 +106,7 @@ const LandingPage: React.FC = () => {
             <FaEnvelope /> Contact Me
           </a>
           <a
-            href="https://linkedin.com/in/hisyamsyarif/"
+            href="https://www.linkedin.com/in/hisyamsyarif/"
             target="_blank"
             className="flex items-center gap-2 bg-gray-800 text-white px-6 py-3 rounded-full font-semibold shadow-lg hover:bg-gray-700 transition-transform transform hover:scale-105"
           >
