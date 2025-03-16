@@ -1,6 +1,7 @@
 import Navbar from "./components/navbar";
 import Hero from "./pages/hero";
-import { LogoTicker } from "./pages/LogoTicker";
+import Testimonial from "./pages/testimonials";
+import LogoTicker from "./pages/LogoTicker";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <Navbar/>
     <Hero/>
     <LogoTicker/>
+    <Testimonial/>
     </>
   );
 }
