@@ -1,4 +1,3 @@
-import React from "react";
 import { twMerge } from "tailwind-merge";
 
 import avatar1 from "../../public/avatar/avatar-1.png";
